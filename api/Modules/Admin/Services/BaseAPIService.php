@@ -16,7 +16,7 @@ use Modules\Common\Services\BaseService;
  * Date:    2021-12-14
  * Time:    11:36
  * Email:   yxw770@gmail.com
- * Class BaseAPIService
+ * Class BaseAPIService1
  * @package Modules\Admin\Services
  */
 class BaseAPIService extends BaseService
